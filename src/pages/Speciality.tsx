@@ -43,7 +43,8 @@ const Specialties: React.FC = () => {
               alt={specialty.title}
               className="w-full h-64 object-cover rounded-lg mb-4"
             />
-            <h3 className="lg:text-lg text-3xl font-semibold mb-4 text-yellow-500">
+            <h3 className="lg:text-lg text-3xl  font-semibold 
+            text-yellow-500">
               {specialty.title}
             </h3>
             <p className="lg:text-sm text-xl text-gray-700">
